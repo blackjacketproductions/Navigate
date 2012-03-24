@@ -34,7 +34,6 @@ C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.
 C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\LineStatusControl.g.cs
 C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\XamlTypeInfo.g.cs
 C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\App.xaml
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\Common\JclStandardStyles.xaml
 C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\Common\StandardStyles.xaml
 C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\BlankPage.xaml
 C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\obj\Debug\HubPage.xaml
