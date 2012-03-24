@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8BEAST</Machine>
+    <WindowsUser>Jonathon</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-24T22:31:01.387</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\Jcl.Navigate.View.Metro.exe">
+      <PackagePath>Jcl.Navigate.View.Metro.exe</PackagePath>
+      <Modified>2012-03-24T22:31:00.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\Jcl.Navigate.View.Metro.pdb">
+      <PackagePath>Jcl.Navigate.View.Metro.pdb</PackagePath>
+      <Modified>2012-03-24T22:31:00.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Model\bin\Debug\Jcl.Navigate.Model.dll">
+      <PackagePath>Jcl.Navigate.Model.dll</PackagePath>
+      <Modified>2012-03-24T13:32:52.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Client\bin\Debug\Jcl.Navigate.Services.Client.dll">
+      <PackagePath>Jcl.Navigate.Services.Client.dll</PackagePath>
+      <Modified>2012-03-24T11:23:50.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts\bin\Debug\Jcl.Navigate.Services.Contracts.dll">
+      <PackagePath>Jcl.Navigate.Services.Contracts.dll</PackagePath>
+      <Modified>2012-03-24T11:23:49.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.ViewModel\bin\Debug\Jcl.Navigate.ViewModel.dll">
+      <PackagePath>Jcl.Navigate.ViewModel.dll</PackagePath>
+      <Modified>2012-03-24T13:32:54.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Model\bin\Debug\Glue.dll">
+      <PackagePath>Glue.dll</PackagePath>
+      <Modified>2012-03-04T22:03:51.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Model\bin\Debug\Jcl.Common.dll">
+      <PackagePath>Jcl.Common.dll</PackagePath>
+      <Modified>2012-03-24T11:23:50.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Model\bin\Debug\Jcl.Navigate.Model.pdb">
+      <PackagePath>Jcl.Navigate.Model.pdb</PackagePath>
+      <Modified>2012-03-24T13:32:52.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Client\bin\Debug\Jcl.Navigate.Services.Client.pdb">
+      <PackagePath>Jcl.Navigate.Services.Client.pdb</PackagePath>
+      <Modified>2012-03-24T11:23:50.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts\bin\Debug\Jcl.Navigate.Services.Contracts.pdb">
+      <PackagePath>Jcl.Navigate.Services.Contracts.pdb</PackagePath>
+      <Modified>2012-03-24T11:23:49.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.ViewModel\bin\Debug\Jcl.Navigate.ViewModel.pdb">
+      <PackagePath>Jcl.Navigate.ViewModel.pdb</PackagePath>
+      <Modified>2012-03-24T13:32:54.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Model\bin\Debug\Jcl.Common.pdb">
+      <PackagePath>Jcl.Common.pdb</PackagePath>
+      <Modified>2012-03-24T11:23:49.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-03-24T18:57:25.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\BlankPage.xaml">
+      <PackagePath>BlankPage.xaml</PackagePath>
+      <Modified>2012-03-13T23:02:34.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\HubPage.xaml">
+      <PackagePath>HubPage.xaml</PackagePath>
+      <Modified>2012-03-24T13:30:02.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\LineStatusControl.xaml">
+      <PackagePath>LineStatusControl.xaml</PackagePath>
+      <Modified>2012-03-13T23:09:41.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\Themes\Tfl.xaml">
+      <PackagePath>Themes\Tfl.xaml</PackagePath>
+      <Modified>2012-03-10T23:15:55.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>Themes\Generic.xaml</PackagePath>
+      <Modified>2012-03-10T21:01:13.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-03-24T22:00:38.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.View.Metro\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-24T22:01:02.825</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

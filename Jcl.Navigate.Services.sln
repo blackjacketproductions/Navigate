@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 11
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jcl.Navigate.Console.App", "Jcl.Navigate.Console.App\Jcl.Navigate.Console.App.csproj", "{BA619E12-3336-4705-BD97-B37924F11360}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jcl.Navigate.View.Metro", "Jcl.Navigate.View.Metro\Jcl.Navigate.View.Metro.csproj", "{0351A975-033D-443F-8245-C520188117AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jcl.Navigate.Model", "Jcl.Navigate.Model\Jcl.Navigate.Model.csproj", "{DCE0B0D1-9B4B-464A-8EFA-71B8994715CC}"
@@ -103,16 +101,6 @@ Global
 		{95F0E66E-DD11-42C8-ACB2-E954077571B9}.Release|x64.Build.0 = Release|x64
 		{95F0E66E-DD11-42C8-ACB2-E954077571B9}.Release|x86.ActiveCfg = Release|x86
 		{95F0E66E-DD11-42C8-ACB2-E954077571B9}.Release|x86.Build.0 = Release|x86
-		{BA619E12-3336-4705-BD97-B37924F11360}.Debug|ARM.ActiveCfg = Debug|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Release|ARM.ActiveCfg = Release|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Release|x64.ActiveCfg = Release|Any CPU
-		{BA619E12-3336-4705-BD97-B37924F11360}.Release|x86.ActiveCfg = Release|Any CPU
 		{C8985ACB-5D3B-41A9-B451-792B86BC63E6}.Debug|ARM.ActiveCfg = Debug|ARM
 		{C8985ACB-5D3B-41A9-B451-792B86BC63E6}.Debug|ARM.Build.0 = Debug|ARM
 		{C8985ACB-5D3B-41A9-B451-792B86BC63E6}.Debug|ARM.Deploy.0 = Debug|ARM
