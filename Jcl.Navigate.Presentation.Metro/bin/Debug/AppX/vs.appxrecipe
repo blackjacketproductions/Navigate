@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8BEAST</Machine>
+    <WindowsUser>Jonathon</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>575C3BBD851FD991131A0D7574ECF938CBFA06F33761C289683AF44D642D98A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9fb99018-714c-4bb4-8e8e-6ccffb4cc2c8_1.0.0.0_neutral__a8rb49cg2dmqt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9fb99018-714c-4bb4-8e8e-6ccffb4cc2c8_a8rb49cg2dmqt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9fb99018-714c-4bb4-8e8e-6ccffb4cc2c8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jonathon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-06T20:24:55.171</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\Jcl.Navigate.Presentation.Metro.exe">
+      <PackagePath>Jcl.Navigate.Presentation.Metro.exe</PackagePath>
+      <Modified>2012-03-06T20:24:54.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\Jcl.Navigate.Presentation.Metro.pdb">
+      <PackagePath>Jcl.Navigate.Presentation.Metro.pdb</PackagePath>
+      <Modified>2012-03-06T20:24:54.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-02-14T04:21:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-03-06T20:22:13.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-03-06T20:22:13.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-03-06T20:22:14.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-03-06T20:22:13.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Presentation.Metro\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-06T20:24:54.789</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

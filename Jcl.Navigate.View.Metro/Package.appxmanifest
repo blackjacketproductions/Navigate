@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+
+  <Identity Name="56c5180b-f7e7-4281-ac44-174f29fa4197"
+            Publisher="CN=Jonathon"
+            Version="1.0.0.0" />
+
+  <Properties>
+    <DisplayName>Jcl.Navigate.View.Metro</DisplayName>
+    <PublisherDisplayName>Jonathon</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>Jcl.Navigate.View.Metro</Description>
+  </Properties>
+
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+
+  <Resources>
+    <Resource Language="x-generate"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+        Executable="$targetnametoken$.exe"
+        EntryPoint="Jcl.Navigate.View.Metro.App">
+        <VisualElements
+            DisplayName="Jcl.Navigate.View.Metro"
+            Logo="Assets\Logo.png"
+            SmallLogo="Assets\SmallLogo.png"
+            Description="Jcl.Navigate.View.Metro"
+            ForegroundText="light"
+            BackgroundColor="#222222">
+            <DefaultTile ShowName="allLogos" />
+            <SplashScreen Image="Assets\SplashScreen.png" />
+        </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

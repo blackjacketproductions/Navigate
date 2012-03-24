@@ -1,0 +1,14 @@
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Repositories.Tests.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Repositories.Tests.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Glue.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Domain.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Repositories.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Services.Contracts.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Domain.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Repositories.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Services.Contracts.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\obj\Debug\Jcl.Navigate.Repositories.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\obj\Debug\Jcl.Navigate.Repositories.Tests.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\obj\Debug\Jcl.Navigate.Repositories.Tests.pdb
+C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Services.Clients.dll
+C:\Users\Jonathon\Documents\Visual Studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Repositories.Tests\bin\Debug\Jcl.Navigate.Services.Clients.pdb

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8BEAST</Machine>
+    <WindowsUser>Jonathon</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>65C29E127AFA9E1C8D9B975ABA752B252904965BDAA90019946B992ABCF0BC03</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>62d7d862-61d6-4584-84a3-7ee47a3d2c6b_1.0.0.0_neutral__a8rb49cg2dmqt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>62d7d862-61d6-4584-84a3-7ee47a3d2c6b_a8rb49cg2dmqt!vstest.executionengine.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>62d7d862-61d6-4584-84a3-7ee47a3d2c6b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jonathon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-08T20:14:11.364</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\bin\Debug\UnitTestProject1.dll">
+      <PackagePath>UnitTestProject1.dll</PackagePath>
+      <Modified>2012-03-08T20:14:08.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\bin\Debug\UnitTestProject1.pdb">
+      <PackagePath>UnitTestProject1.pdb</PackagePath>
+      <Modified>2012-03-08T20:14:08.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+      <Modified>2012-02-14T03:43:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\Images\UnitTestLogo.png">
+      <PackagePath>Images\UnitTestLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\Images\UnitTestSmallLogo.png">
+      <PackagePath>Images\UnitTestSmallLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\Images\UnitTestSplashScreen.png">
+      <PackagePath>Images\UnitTestSplashScreen.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\Images\UnitTestStoreLogo.png">
+      <PackagePath>Images\UnitTestStoreLogo.png</PackagePath>
+      <Modified>2012-02-14T04:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\UnitTestProject1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-08T20:14:11.114</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

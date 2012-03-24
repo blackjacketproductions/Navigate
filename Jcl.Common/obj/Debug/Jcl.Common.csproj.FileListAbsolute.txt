@@ -1,0 +1,14 @@
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\bin\Debug\Jcl.Common.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\bin\Debug\Jcl.Common.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\bin\Debug\Jcl.Common.pri
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\Jcl.Common.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\Jcl.Common.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\priconfig.xml
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\layout.resfiles
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\resources.resfiles
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\pri.resfiles
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Common\obj\Debug\LanguageQualifiers.txt

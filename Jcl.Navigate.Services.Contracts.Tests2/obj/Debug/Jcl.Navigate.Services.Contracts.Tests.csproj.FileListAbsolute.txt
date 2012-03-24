@@ -1,0 +1,10 @@
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\bin\Debug\Jcl.Navigate.Services.Contracts.Tests.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\bin\Debug\Jcl.Navigate.Services.Contracts.Tests.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\bin\Debug\Jcl.Navigate.Services.Contracts.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\bin\Debug\Moq.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\bin\Debug\Jcl.Navigate.Services.Contracts.pdb
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\obj\Debug\Jcl.Navigate.Services.Contracts.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\obj\Debug\Jcl.Navigate.Services.Contracts.Tests.Resources.resources
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\obj\Debug\Jcl.Navigate.Services.Contracts.Tests.csproj.GenerateResource.Cache
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\obj\Debug\Jcl.Navigate.Services.Contracts.Tests.dll
+C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Services.Contracts.Tests\obj\Debug\Jcl.Navigate.Services.Contracts.Tests.pdb
