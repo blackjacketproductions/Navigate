@@ -1,6 +1,0 @@
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Console.App\bin\Debug\Jcl.Navigate.Console.App.exe.config
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Console.App\bin\Debug\Jcl.Navigate.Console.App.exe
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Console.App\bin\Debug\Jcl.Navigate.Console.App.pdb
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Console.App\obj\Debug\Jcl.Navigate.Console.App.csprojResolveAssemblyReference.cache
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Console.App\obj\Debug\Jcl.Navigate.Console.App.exe
-C:\Users\Jonathon\documents\visual studio 11\Projects\Jcl.Navigate.Services\Jcl.Navigate.Console.App\obj\Debug\Jcl.Navigate.Console.App.pdb
