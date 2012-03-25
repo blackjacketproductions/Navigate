@@ -112,8 +112,10 @@
     <Compile Include="MetroInterface\HubPageTileBase.cs" />
     <Compile Include="MetroInterface\HubPageTileGroup.cs" />
     <Compile Include="MetroInterface\HubPageTileIcon.cs" />
+    <Compile Include="MetroInterface\HubPageTileLive.cs" />
     <Compile Include="MetroInterface\IHubPageStructureService.cs" />
     <Compile Include="MetroInterface\IResizable.cs" />
+    <Compile Include="MetroInterface\LiveTileType.cs" />
     <Compile Include="TubeLine\ILineStatusRepository.cs" />
     <Compile Include="IReadOnlyRepository.cs" />
     <Compile Include="TubeLine\Line.cs" />
@@ -162,9 +164,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\home_256.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    <Folder Include="Images\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' ">
     <VisualStudioVersion>11.0</VisualStudioVersion>

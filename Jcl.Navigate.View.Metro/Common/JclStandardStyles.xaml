@@ -19,37 +19,59 @@
 
     <!-- List-appropriate 130 pixel high item template as seen in the SplitPage -->
 
- <DataTemplate x:Key="TileGroupItemTemplate">
-        <Grid>
+    <DataTemplate x:Key="iconTileTemplate">
+        <Border Background="{StaticResource ListViewItemPlaceholderRectBrush}"
+                                VariableSizedWrapGrid.ColumnSpan="{Binding Width}"
+                                Margin="2,2,2,2" >
+            <Grid >
+                <Image Source="{Binding Image}"
+                                       Stretch="UniformToFill"
+                                       VerticalAlignment="Stretch"
+                                       HorizontalAlignment="Stretch" />
+                <StackPanel Margin="4"
+                                            VerticalAlignment="Bottom"
+                                            HorizontalAlignment="Left">
+                    <TextBlock Text="{Binding Name}"
+                                               HorizontalAlignment="Center"
+                                               Foreground="White"
+                                               FontSize="16"
+                                               Margin="6" />
+                </StackPanel>
+            </Grid>
+        </Border>
+    </DataTemplate>
+
+    <DataTemplate x:Key="lineStatusTileTemplate">
+        <Border Background="{StaticResource ListViewItemPlaceholderRectBrush}"
+                                VariableSizedWrapGrid.ColumnSpan="{Binding Width}"
+                                Margin="2,2,2,2" >
+            <Grid DataContext="{Binding Source=mainGrid, Path=DataContext.LineStatusViewModel}"
+                                VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <local:LineStatusControl x:Name="lineStatusList" Width="300" Height="450">
+                    
+                </local:LineStatusControl>
+            </Grid>
+        </Border>
+    </DataTemplate>
+
+    <local:HubPageTileTemplateSelector x:Key="tileTemplateSelector" 
+                                       IconTileTemplate="{StaticResource iconTileTemplate}"
+                                       LineStatusTileTemplate="{StaticResource lineStatusTileTemplate}"/>
+    
+    <DataTemplate x:Key="TileGroupItemTemplate">
+        <Grid Margin="0,0,150,0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="20"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
                 
         <TextBlock Grid.Row="0" Text="{Binding Title}"></TextBlock>
-            <local:VariableGridView Grid.Row="1"  ItemsSource="{Binding Tiles}" HorizontalAlignment="Left">
-            <local:VariableGridView.ItemTemplate>
-                <DataTemplate>
-                        <Border Background="{StaticResource ListViewItemPlaceholderRectBrush}" Margin="2,2,2,2" >
-                            <Grid VariableSizedWrapGrid.ColumnSpan="{Binding Width}">
-                        <Image Source="{Binding Image}"
-                                   Stretch="UniformToFill"
-                                   VerticalAlignment="Stretch"
-                                   HorizontalAlignment="Stretch" />
-                        <StackPanel Margin="4"
-                                        VerticalAlignment="Bottom"
-                                        HorizontalAlignment="Left">
-                            <TextBlock Text="{Binding Name}"
-                                           HorizontalAlignment="Center"
-                                           Foreground="White"
-                                           FontSize="16"
-                                           Margin="6" />
-                        </StackPanel>
-                    </Grid>
-                    </Border>
-                    </DataTemplate>
-            </local:VariableGridView.ItemTemplate>
-            <local:VariableGridView.ItemsPanel>
+            <local:VariableGridView Grid.Row="1"  
+                                    ItemsSource="{Binding Tiles}" 
+                                    HorizontalAlignment="Left"
+                                    ItemTemplateSelector="{StaticResource tileTemplateSelector}">
+               
+           <local:VariableGridView.ItemsPanel>
                 <ItemsPanelTemplate>
                     <VariableSizedWrapGrid VerticalAlignment="Center"
                                                ItemHeight="150"

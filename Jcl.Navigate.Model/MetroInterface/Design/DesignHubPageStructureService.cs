@@ -30,7 +30,19 @@ namespace Jcl.Navigate.Model.MetroInterface.Design
            favGroup.Tiles = favGroupTiles;
            
           groups.Add(favGroup);
-           groups.Add(new HubPageTileGroup() { Title = "Bus" });
+
+          var tubeGroup = new HubPageTileGroup();
+          tubeGroup.Title = "Tube";
+          tubeGroup.Index = 1;
+          var tubeGroupTiles = new List<HubPageTileBase>();
+          tubeGroupTiles.Add(new HubPageTileLive() { Height = 3, Width = 2, Name = "Line Status" });
+          tubeGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Home", ImagePath = @"/Images/home_256.png" });
+          tubeGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite 1", ImagePath = @"/Images/favorite_128.png" });
+          tubeGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite 2", ImagePath = @"/Images/favorite_128.png" });
+          tubeGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite 3", ImagePath = @"/Images/favorite_128.png" });
+          tubeGroup.Tiles = tubeGroupTiles;
+
+          groups.Add(tubeGroup);
            groups.Add(new HubPageTileGroup() { Title = "Tube" });
            groups.Add(new HubPageTileGroup());
            groups.Add(new HubPageTileGroup());
