@@ -8,14 +8,13 @@
     xmlns:vm="using:Jcl.Navigate.ViewModel"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:ViewModel="clr-namespace:Jcl.Navigate.ViewModel;assembly=Jcl.Navigate.ViewModel"
-    xmlns:Controls="clr-namespace:Windows.UI.Xaml.Controls;assembly=Windows">
+   xmlns:Controls="clr-namespace:Windows.UI.Xaml.Controls;assembly=Windows">
 
 
     <common:LayoutAwarePage.Resources>
         <ResourceDictionary>
            
-            <ViewModel:HubPageViewModel x:Key="hubPageViewModel"/>
+            <vm:HubPageViewModel x:Key="hubPageViewModel"/>
         
         <!-- Collection of grouped items di splayed by this page -->
         <CollectionViewSource
@@ -46,7 +45,7 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
-            <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Grid.Column="1" Style="{StaticResource PageHeaderTextStyle}"/>
+            <TextBlock x:Name="pageTitle" Text="Navigate London" Grid.Column="1" Style="{StaticResource PageHeaderTextStyle}"/>
         </Grid>
 
         <!-- Horizontal scrolling grid used in most view states -->
@@ -89,7 +88,7 @@
                 
                 <GridView.ItemsPanel>
                     <ItemsPanelTemplate>                        
-                        <VirtualizingStackPanel Orientation="Horizontal"/>
+                        <VirtualizingStackPanel Orientation="Vertical"/>
                     </ItemsPanelTemplate>
                 </GridView.ItemsPanel>
                 <GridView.GroupStyle>

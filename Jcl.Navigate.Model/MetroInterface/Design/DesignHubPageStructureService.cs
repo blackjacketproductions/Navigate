@@ -19,11 +19,11 @@ namespace Jcl.Navigate.Model.MetroInterface.Design
            var groups = new List<HubPageTileGroup>();
            var favGroup = new HubPageTileGroup();
            var favGroupTiles = new List<HubPageTileBase>();
-           
-           favGroupTiles.Add(new HubPageTileIcon() {Height = 1, Width = 1, Name ="Favourite1"});
-           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite2" });
-           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite3" });
-           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite4" });
+
+           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Home", ImagePath = @"/Images/home_256.png" });
+           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite 1", ImagePath = @"/Images/favorite_128.png" });
+           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite 2", ImagePath = @"/Images/favorite_128.png" });
+           favGroupTiles.Add(new HubPageTileIcon() { Height = 1, Width = 1, Name = "Favourite 3", ImagePath = @"/Images/favorite_128.png" });
 
            favGroup.Title = "Favourites";
            favGroup.Index = 0;

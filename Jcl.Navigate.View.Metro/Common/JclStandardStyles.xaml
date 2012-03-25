@@ -20,11 +20,17 @@
     <!-- List-appropriate 130 pixel high item template as seen in the SplitPage -->
 
  <DataTemplate x:Key="TileGroupItemTemplate">
-        <!--<TextBlock Grid.Row="0" Text="{Binding Title}"></TextBlock>-->
-        <local:VariableGridView ItemsSource="{Binding Tiles}" HorizontalAlignment="Left">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+                
+        <TextBlock Grid.Row="0" Text="{Binding Title}"></TextBlock>
+            <local:VariableGridView Grid.Row="1"  ItemsSource="{Binding Tiles}" HorizontalAlignment="Left">
             <local:VariableGridView.ItemTemplate>
                 <DataTemplate>
-                        <!--<Border Background="{StaticResource ListViewItemPlaceholderRectBrush}" Margin="2,2,2,2" >-->
+                        <Border Background="{StaticResource ListViewItemPlaceholderRectBrush}" Margin="2,2,2,2" >
                             <Grid VariableSizedWrapGrid.ColumnSpan="{Binding Width}">
                         <Image Source="{Binding Image}"
                                    Stretch="UniformToFill"
@@ -40,7 +46,7 @@
                                            Margin="6" />
                         </StackPanel>
                     </Grid>
-                    <!--</Border>-->
+                    </Border>
                     </DataTemplate>
             </local:VariableGridView.ItemTemplate>
             <local:VariableGridView.ItemsPanel>
@@ -52,7 +58,7 @@
                 </ItemsPanelTemplate>
             </local:VariableGridView.ItemsPanel>
         </local:VariableGridView>
-        
+        </Grid>
     </DataTemplate>
     
 

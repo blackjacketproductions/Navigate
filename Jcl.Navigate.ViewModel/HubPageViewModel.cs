@@ -23,7 +23,7 @@ namespace Jcl.Navigate.ViewModel
             if (designTime)
                 HubPageStructureService = new DesignHubPageStructureService();
             else
-                HubPageStructureService = new HubPageStructureService();
+                HubPageStructureService = new DesignHubPageStructureService();
 
             _hubPage = HubPageStructureService.LoadHubPage();
 

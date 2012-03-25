@@ -8,3 +8,8 @@
 TestResults
 
 _ReSharper*
+*/bin/*
+*/obj/*
+
+*Thumbs.db
+*.dll
